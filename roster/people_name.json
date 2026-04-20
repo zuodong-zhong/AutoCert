@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "chinese_name": "学生甲",
+      "english_name": "Student Alpha",
+      "pinyin": "Xuesheng Jia",
+      "student_id": null
+    },
+    {
+      "chinese_name": "学生乙",
+      "english_name": "Student Beta",
+      "pinyin": "Xuesheng Yi",
+      "student_id": null
+    },
+    {
+      "chinese_name": "学生丙",
+      "english_name": "Student Gamma",
+      "pinyin": "Xuesheng Bing",
+      "student_id": null
+    }
+  ],
+  "advisors": [
+    {
+      "chinese_name": "指导教师甲",
+      "english_name": "Advisor Alpha",
+      "pinyin": "Zhidao Jiaoshi Jia"
+    },
+    {
+      "chinese_name": "指导教师乙",
+      "english_name": "Advisor Beta",
+      "pinyin": "Zhidao Jiaoshi Yi"
+    }
+  ]
+}
+

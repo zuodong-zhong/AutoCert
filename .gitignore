@@ -1,0 +1,23 @@
+# Runtime outputs and local datasets
+logs/**
+results/**
+test_images/**
+zuodong/**
+web_uploads/**
+
+# Sensitive roster inputs
+roster/people_name.private.json
+roster/inspect_output.txt
+roster/*.xls
+roster/*.xlsx
+
+# Keep public placeholders
+!logs/.gitkeep
+!logs/README.md
+!results/.gitkeep
+!results/README.md
+!test_images/.gitkeep
+!test_images/README.md
+!zuodong/.gitkeep
+!zuodong/README.md
+
